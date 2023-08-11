@@ -1,0 +1,32 @@
+[
+    {
+        "name": "John Doe",
+        "age": 30,
+        "address": "Caloocan City",
+        "image": "images/john_doe.jpg"
+    },
+    {
+        "name": "Jonel Smith",
+        "age": 25,
+        "address": "Manila City",
+        "image": "images/jane_smith.jpg"
+    },
+    {
+        "name": "Michael Johnson",
+        "age": 40,
+        "address": "Pasay City",
+        "image": "images/michael_johnson.jpg"
+    },
+    {
+        "name": "Emilio Brown",
+        "age": 28,
+        "address": "San Juan City",
+        "image": "images/emily_brown.jpg"
+    },
+    {
+        "name": "William Wilson",
+        "age": 35,
+        "address": "Quezon City",
+        "image": "images/william_wilson.jpg"
+    }
+]
